@@ -1,25 +1,25 @@
-# Module 4 Final Project
+# Phase 4 Final Project
 
 
 ## Introduction
 
-In this lesson, we'll review all of the guidelines and specifications for the final project for Module 4.
+In this lesson, we'll review all of the guidelines and specifications for the final project for Phase 4.
 
 ## Objectives
 
-* Understand all required aspects of the Final Project for Module 4
+* Understand all required aspects of the Final Project for Phase 4
 * Understand all required deliverables
 * Understand what constitutes a successful project
 
 ## Final Project Summary
 
-Final module down -- you're absolutely crushing it! You've made it all the way through one of the toughest modules of this course. You must have an amazing brain in your head!
+Final phase down -- you're absolutely crushing it! You've made it all the way through one of the toughest phases of this course. You must have an amazing brain in your head!
 
 <img src='https://raw.githubusercontent.com/learn-co-students/dsc-mod-4-project-seattle-ds-102819/master/images/brain.gif'>
 
 ## The Datasets
 
-For this module's final project, you have the choice of four problems:
+For this phase's final project, you have the choice of four problems:
 
 - Time Series Modeling
 - Recommendation System
@@ -32,7 +32,7 @@ Like Project \#3, the focus here is on *prediction*. It will be up to you to det
 
 When choosing a problem, consider:
 
-1. **Portfolio Depth:** One option is to choose the same type of problem you plan to tackle in Module 5 (capstone).  This will allow you to practice the necessary skills in a group setting, before diving into your individual project.  You will likely produce a capstone project that is more polished and sophisticated, but your portfolio will demonstrate less breadth.
+1. **Portfolio Depth:** One option is to choose the same type of problem you plan to tackle in Phase 5 (capstone).  This will allow you to practice the necessary skills in a group setting, before diving into your individual project.  You will likely produce a capstone project that is more polished and sophisticated, but your portfolio will demonstrate less breadth.
 2. **Portfolio Breadth:** Another option is to choose a type of problem that interests you, but that you don't plan to use in your capstone project.  Each of your individual projects will end up less polished and sophisticated, but you will end up with a portfolio that demonstrates a wider range of skills.
 
 ### Problem 1: Time Series Modeling
