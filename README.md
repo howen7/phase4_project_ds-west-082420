@@ -75,7 +75,7 @@ At minimum, your recommendation system must use collaborative filtering.  If you
 
 #### Evaluation
 
-The MovieLens dataset has explicit ratings, so achieving some sort of evaluation of your model is simple enough.  But you should give some thought to the question of metrics.  Since the rankings are ordinal, we know we can treat this like a regression problem.  But when it comes to regression metrics there are several choices: RMSE, MAE, etc.  [Here](https://fastml.com/evaluating-recommender-systems/) are some further ideas.
+The MovieLens dataset has explicit ratings, so achieving some sort of evaluation of your model is simple enough.  But you should give some thought to the question of metrics.  Since the rankings are ordinal, we know we can treat this like a regression problem.  But when it comes to regression metrics there are several choices: RMSE, MAE, etc. [Here](https://towardsdatascience.com/evaluation-metrics-for-recommender-systems-df56c6611093) are some further ideas.
 
 ### Problem 3: Image Classification with Deep Learning
 
